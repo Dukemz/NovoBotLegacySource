@@ -1,3 +1,4 @@
+// This command is really damn messy lmao
 const { MessageEmbed } = require('discord.js');
 const shop = require("../json/shop.json");
 const { nvc } = require("../json/emojis.json");
