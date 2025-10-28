@@ -1,8 +1,4 @@
 # NovoBot Legacy Source Code
 Source code for some parts of the legacy version of NovoBot and NovoBot Nightly.
 
-PLEASE do NOT just copy the code from here and call it your own bot without changing a single thing. This repository is for LEARNING PURPOSES ONLY. As such, remember to follow the license included in this repository.
-
-
-
-Yeah this repository doesn't have many files I'll add more later.
+Please don't just copy the code from here and call it your own. This repository is for learning purposes (mostly so you can learn how *not* to code because me from 5 years ago certainly liked using single letter variables a lot).
